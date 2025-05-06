@@ -11,6 +11,7 @@ body {
 } */
 .hero img{
     object-fit: cover !important;
+    height: 100vh !important;
 }
 .product-card {
     margin-bottom: 20px;

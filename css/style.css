@@ -2,14 +2,14 @@ body {
     background: linear-gradient(135deg, #f8ffae 0%, #43c6ac 100%);
     min-height: 100vh;
 }
-/* .hero {
+.hero {
     background-image: url(../img/back.avif);
     background-size: cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
-} */
-.hero img{
+}
+.hero1 img{
     object-fit: cover !important;
 }
 .product-card {
